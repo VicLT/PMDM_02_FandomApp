@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FandomApp</string>
+    <string name="txt_contentDescription">Imagen del personaje</string>
+    <string name="txt_favorite">Favorito</string>
+    <string name="txt_doit">Do it!</string>
+    <string name="txt_delete">¿Eliminar a %1$s?</string>
+    <string name="txt_more_info">Más información: %1$s</string>
+    <string name="filenameFavs">fandomFavs.csv</string>
+    <string name="filenameDeleted">fandomDel.csv</string>
+    <string name="imgBtnDescription">Fav button</string>
+</resources>
